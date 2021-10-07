@@ -1,0 +1,9 @@
+.header__content{
+    display: flex;
+    justify-content: space-between;
+}
+.header__list{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
